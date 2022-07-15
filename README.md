@@ -3,8 +3,6 @@
 <b>Book COVID-19 Vaccine from nearby vaccination centers through live map and get treatment from best doctors around the world</b>
 <br>
 
-<b><a href="https://immunoshots.uc.r.appspot.com/">CHECK LIVE</a></b>
-<br>
 
 <a href="https://immunoshots.uc.r.appspot.com"><img src="https://i.ibb.co/hVC9mFn/MK0.png" alt="MK0" border="0"></a>
 <a href="https://immunoshots.uc.r.appspot.com"><img src="https://i.ibb.co/VpBdhCk/MK8.png" alt="MK8" border="0"></a>
