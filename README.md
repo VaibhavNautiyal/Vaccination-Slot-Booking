@@ -1,4 +1,4 @@
-# Immuno-Shots💉
+# Vaccination Slot Booking💉
 
 <b>Book COVID-19 Vaccine from nearby vaccination centers through live map and get treatment from best doctors around the world</b>
 <br>
@@ -39,6 +39,6 @@
 <h1>Deployment</h1>✔️GCP
 
 <h1>Created and Deployed by</h1>
-  <b>Akshat Khanna & Unnati Mishra🙎</b>
+  <b>Vaibhav Nautiyal</b>
   <br><br>
 
